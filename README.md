@@ -9,7 +9,7 @@ knowing pick-protection details before determining asset values in trades.
 There are two scripts, one that prints a graph of individual picks in the first
 round and the other which prints both rounds but uses ranges of picks as bins.
 
-The output graphs for the default criteria (5 ppg, 2800 mpg) from 1976 - 2015 
+The output graphs for the default criteria (5 ppg, 2800 minutes played) from 1976 - 2015 
 are included in the repo as png files.
 
 Many thanks to Rory Pulvino at data.world for the dataset used to create this:
