@@ -12,4 +12,6 @@ round and the other which prints both rounds but uses ranges of picks as bins.
 The output graphs for the default criteria (5 ppg, 2800 mpg) from 1976 - 2015 
 are included in the repo as png files.
 
-Many thanks to Rory Pulvino at data.world for the dataset used to create this.
+Many thanks to Rory Pulvino at data.world for the dataset used to create this:
+
+https://data.world/rvino88/1976-to-2015-nba-draft-data
