@@ -9,8 +9,11 @@ knowing pick-protection details before determining asset values in trades.
 There are two scripts, one that prints a graph of individual picks in the first
 round and the other which prints both rounds but uses ranges of picks as bins.
 
-The output graphs for the default criteria (5 ppg, 2800 minutes played) from 1976 - 2015 
-are included in the repo as png files.
+#### Individual pick probabilities
+![histogram of draft picks individual picks, small bins](https://github.com/skandasastry/nba-draft-probability/blob/master/1976_2015_indivPickProbability.png?raw=true)
+
+#### Bins as pick ranges
+![histogram of draft picks nba](https://github.com/skandasastry/nba-draft-probability/blob/master/1976_2015_rangeProbability.png?raw=true)
 
 Many thanks to Rory Pulvino at data.world for the dataset used to create this:
 
